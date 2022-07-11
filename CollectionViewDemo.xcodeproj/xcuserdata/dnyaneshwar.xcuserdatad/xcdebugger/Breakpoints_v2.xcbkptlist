@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "903176B7-B4FB-4B0B-BC13-95C605DE7FBA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDED6075-62F6-48F2-84C3-C662EBF204EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewDemoTests/CollectionViewTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "test_CollectionView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDED6075-62F6-48F2-84C3-C662EBF204EB - 9d39f8e1c5a039cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemoTests.CollectionViewTests.test_CollectionView() throws -&gt; ()"
+                  moduleName = "CollectionViewDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dnyaneshwar/Desktop/CollectionViewDemo/CollectionViewDemoTests/CollectionViewTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "FDED6075-62F6-48F2-84C3-C662EBF204EB - 9d39f8e1c5a039cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemoTests.CollectionViewTests.test_CollectionView() throws -&gt; ()"
+                  moduleName = "CollectionViewDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dnyaneshwar/Desktop/CollectionViewDemo/CollectionViewDemoTests/CollectionViewTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "FDED6075-62F6-48F2-84C3-C662EBF204EB - 9d39f8e1c5a039cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewDemoTests.CollectionViewTests.test_CollectionView() throws -&gt; ()"
+                  moduleName = "CollectionViewDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dnyaneshwar/Desktop/CollectionViewDemo/CollectionViewDemoTests/CollectionViewTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

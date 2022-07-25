@@ -10,10 +10,10 @@ From 06:00 CEST to 15:00 CEST today (11th July), following is accomplished:
 
 https://user-images.githubusercontent.com/109080065/178284625-1de04408-fef6-462d-8f05-b0160170b396.mov
 
-I have done following enhacements which has improved the overall pinching experience. 
-	- Smoothen the pinching experience to reduce flickering as user pinches-in & out.
-	- Ensuring that the 3x3 grid is not deformed/disintegrated if pinching is done too much/too wide.
-	
+I have done following enhacements which has improved the overall pinching experience.
+ - Smoothen the pinching experience to reduce flickering as user pinches-in & out. 
+ - Ensuring that the 3x3 grid is not deformed/disintegrated if pinching is done too much/too wide.
+
 Attached videos demonstrates the improved user experience for pinching in/out. Two videos are attached - one from simulator and other from actual iPhone device.
 
 
